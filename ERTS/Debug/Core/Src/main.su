@@ -1,0 +1,16 @@
+../Core/Src/main.c:44:6:updateDisplay	16	static
+../Core/Src/main.c:49:6:displayTime	16	static
+../Core/Src/main.c:54:6:displayAlarmTime	16	static
+../Core/Src/main.c:59:6:incrementHours	4	static
+../Core/Src/main.c:67:6:incrementMinutes	8	static
+../Core/Src/main.c:77:6:incrementAlarmHours	4	static
+../Core/Src/main.c:84:6:incrementAlarmMinutes	8	static
+../Core/Src/main.c:118:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:156:6:triggerAlarm	16	static
+../Core/Src/main.c:186:5:main	8	static
+../Core/Src/main.c:255:6:SystemClock_Config	72	static
+../Core/Src/main.c:292:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:337:13:MX_TIM4_Init	64	static
+../Core/Src/main.c:396:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:441:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:452:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,29 @@
+# STM32CubeIDE specific files
+/.settings/
+/Debug/
+/Release/
+*.launch
+*.log
+*.tmp
+*.bak
+*.swp
+*.ioc
+*.d
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+*.srec
+
+# Eclipse/IDE specific files
+.project
+.cproject
+
+# Proteus specific files
+*.bak
+*.ex
+
+# Backup files
+*.sav
+*.backup

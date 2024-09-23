@@ -1,0 +1,16 @@
+../Core/Src/main.c:44:6:updateDisplay	1
+../Core/Src/main.c:49:6:displayTime	1
+../Core/Src/main.c:54:6:displayAlarmTime	1
+../Core/Src/main.c:59:6:incrementHours	2
+../Core/Src/main.c:67:6:incrementMinutes	2
+../Core/Src/main.c:77:6:incrementAlarmHours	2
+../Core/Src/main.c:84:6:incrementAlarmMinutes	2
+../Core/Src/main.c:118:6:HAL_GPIO_EXTI_Callback	9
+../Core/Src/main.c:156:6:triggerAlarm	3
+../Core/Src/main.c:186:5:main	7
+../Core/Src/main.c:255:6:SystemClock_Config	3
+../Core/Src/main.c:292:13:MX_TIM2_Init	4
+../Core/Src/main.c:337:13:MX_TIM4_Init	6
+../Core/Src/main.c:396:13:MX_GPIO_Init	1
+../Core/Src/main.c:441:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:452:6:Error_Handler	1
